@@ -1,7 +1,7 @@
 import textwrap
 from datetime import datetime, timedelta
 from airflow.operators.bash import BashOperator
-from airflow.sdk import DAG
+from airflow import DAG
 
 with DAG(
     "tutorial",

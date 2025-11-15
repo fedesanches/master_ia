@@ -1,0 +1,10 @@
+ing_software/clase_07/dags/__pycache__/dag1.cpython-38.pyc
+ing_software/clase_07/logs/dag_id=tutorial/run_id=manual__2025-11-15T134705.273725+0000/task_id=print_date/attempt=1.log
+ing_software/clase_07/logs/dag_id=tutorial/run_id=manual__2025-11-15T134705.273725+0000/task_id=sleep/attempt=1.log
+ing_software/clase_07/logs/dag_id=tutorial/run_id=manual__2025-11-15T134705.273725+0000/task_id=templated/attempt=1.log
+ing_software/clase_07/logs/dag_id=tutorial/run_id=scheduled__2025-11-14T134656.114640+0000/task_id=print_date/attempt=1.log
+ing_software/clase_07/logs/dag_id=tutorial/run_id=scheduled__2025-11-14T134656.114640+0000/task_id=sleep/attempt=1.log
+ing_software/clase_07/logs/dag_id=tutorial/run_id=scheduled__2025-11-14T134656.114640+0000/task_id=templated/attempt=1.log
+ing_software/clase_07/logs/dag_processor_manager/dag_processor_manager.log
+ing_software/clase_07/logs/scheduler/latest
+ing_software/clase_07/logs/scheduler/2025-11-15/dag1.py.log
